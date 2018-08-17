@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [文字と声](to.md)
+* [文字と声](code-and-voice.md)
 
